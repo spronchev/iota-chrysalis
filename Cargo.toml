@@ -1,0 +1,10 @@
+[package]
+name = "Blockchain-IOTA"
+version = "0.1.0"
+authors = ["Stepan8888 <58593274+Stepan8888@users.noreply.github.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+iota-client = { git = "https://github.com/iotaledger/iota.rs", branch = "dev" }
