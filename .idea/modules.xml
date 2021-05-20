@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Blockchain-IOTA.iml" filepath="$PROJECT_DIR$/Blockchain-IOTA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/blockchain_iota.iml" filepath="$PROJECT_DIR$/blockchain_iota.iml" />
     </modules>
   </component>
 </project>
